@@ -5,5 +5,5 @@ class Matrix {
     public:
 
     private:
-        std::vector<std::vector<int>> matrix;
+        std::vector<std::vector<double>> matrix;
 };
